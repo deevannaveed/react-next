@@ -1,5 +1,5 @@
 # react-next
-React - Next.js, Bootstrap 4.3 with SCSS and Layout configured project.
+React - Next.js, Bootstrap 4.3 with SCSS and Layout configured starter project.
 
 ## Project setup
 ```
