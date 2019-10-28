@@ -1,5 +1,5 @@
 # react-next
-React - Next.js Project, With React Bootstrap and Layout - Fully configured, just create your pages.
+React - Next.js Project, With React Bootstrap and Layout - Fully configured, boilerplate.
 
 ## Project setup
 ```
